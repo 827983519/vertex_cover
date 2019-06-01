@@ -1,5 +1,8 @@
 # vertex_cover
+## (We compare the performance of these three algorithms.For more details, please review the report.)
+
 Use three methods to find the vertex cover of the graph.
+
 
 ## The first method: 
 
